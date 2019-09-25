@@ -1,0 +1,8 @@
+{
+    "reason.path.ocamlmerlin": "ocamlmerlin",
+    "reason.path.ocamlfind": "ocamlfind",
+    "reason.path.ocpindent": "ocp-indent",
+    "reason.diagnostics.tools": [
+      "merlin"
+    ],
+}

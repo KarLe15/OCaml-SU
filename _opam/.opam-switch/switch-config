@@ -1,0 +1,10 @@
+opam-version: "2.0"
+synopsis: "/media/karim/Données/Université/STL M1/S1/Ouverture/OCaml"
+opam-root: "/home/karim/.opam"
+paths {
+  
+}
+variables {
+  user: "karim"
+  group: "karim"
+}

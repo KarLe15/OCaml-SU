@@ -1,0 +1,3 @@
+OPAM_SWITCH_PREFIX	=	/media/karim/Données/Université/STL\ M1/S1/Ouverture/OCaml/_opam	Prefix\ of\ the\ current\ opam\ switch
+MANPATH	=:	/media/karim/Données/Université/STL\ M1/S1/Ouverture/OCaml/_opam/man	Current\ opam\ switch\ man\ dir
+PATH	=+=	/media/karim/Données/Université/STL\ M1/S1/Ouverture/OCaml/_opam/bin	Binary\ dir\ for\ opam\ switch\ /media/karim/Données/Université/STL\ M1/S1/Ouverture/OCaml
